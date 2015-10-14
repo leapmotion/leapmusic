@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ubuntu/Downloads/alpha/LeapDeveloperKit/Examples/AndroidMusic/app/libs/LeapJava.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="35e1d415a2f74ba74d2a39f7d37481373b0d85da">
+        <dex dex="/home/ubuntu/Downloads/alpha/LeapDeveloperKit/Examples/AndroidMusic/app/build/intermediates/pre-dexed/debug/LeapJava-844210b128c82661eea1b54e552c01c1963515d7.jar" />
+    </item>
+    <item
+        jar="/home/ubuntu/Downloads/alpha/LeapDeveloperKit/Examples/AndroidMusic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="/home/ubuntu/Downloads/alpha/LeapDeveloperKit/Examples/AndroidMusic/app/build/intermediates/pre-dexed/debug/classes-ee1eb15c8b0425697c303cb202fffbc5dc81cd97.jar" />
+    </item>
+    <item
+        jar="/home/ubuntu/android/android-sdk-linux/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/home/ubuntu/Downloads/alpha/LeapDeveloperKit/Examples/AndroidMusic/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-e0e9c23cd63469c9873aa263ff1f983ee119f769.jar" />
+    </item>
+
+</items>
